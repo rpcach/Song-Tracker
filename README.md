@@ -1,8 +1,8 @@
 # Radio Top Spins
 
-<img src = "https://raw.github.com/cacharani/Radio-Top-Spins/master/demo.png" width="70%"></img>
+<img src = "https://raw.github.com/cacharani/Radio-Top-Spins/master/plot.png" width="50%"></img><img src = "https://raw.github.com/cacharani/Radio-Top-Spins/master/demo.png" width="50%"></img>
 
-Click below to play around with the model!
+Click below to play around with the model:
 
 https://htmlpreview.github.io/?https://github.com/Cacharani/Radio-Top-Spins/blob/master/webGL/index.html
 
