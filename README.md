@@ -1,4 +1,4 @@
-# Radio Top Spins
+# Song Tracker
 
 <img src = "https://raw.github.com/cacharani/Radio-Top-Spins/master/plot.png" width="90%"></img>
 
