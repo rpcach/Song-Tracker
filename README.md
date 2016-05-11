@@ -1,5 +1,8 @@
 # Song Tracker
 
+Check out the app at:
+https://cacharani.shinyapps.io/Song-Tracker/
+
 <img src = "https://raw.github.com/cacharani/Song-Tracker/master/plot.png" width="90%"></img>
 
 
