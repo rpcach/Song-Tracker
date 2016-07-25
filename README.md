@@ -6,7 +6,7 @@ https://cacharani.shinyapps.io/Song-Tracker/
 <img src = "https://raw.github.com/cacharani/Song-Tracker/master/plot.png" width="90%"></img>
 
 
-Pulls dats from kworb.net/radio/ and creates interesting plots with it.
+Pulls data from kworb.net/radio/ and creates interesting plots with it.
 Data can go back as far as May 12, 2011.
 
 For the "Select songs here:" input, you can type in titles and artists.
