@@ -1,10 +1,11 @@
 name: Song-Tracker
+title:
 account: cacharani
 server: shinyapps.io
 appId: 100041
-bundleId: 791169
+bundleId: 807255
 url: https://cacharani.shinyapps.io/Song-Tracker/
-when: 1492372181.10907
+when: 1493347613.77283
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: demo.png|plot.png|README.md|webGL/index.html
