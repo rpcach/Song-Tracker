@@ -1,20 +1,17 @@
 # Song Tracker
 
-Check out the app at:
-https://cacharani.shinyapps.io/Song-Tracker/
+**This project is no longer being updated.**
 
-<img src = "https://raw.github.com/cacharani/Song-Tracker/master/plot.png" width="90%"></img>
+Check out the app at:
+
+https://cacharani.shinyapps.io/song-tracker/
+
+<img src = "https://raw.github.com/cacharani/song-tracker/master/plot.png" width="90%"></img>
 
 
 Pulls data from kworb.net/radio/ and creates interesting plots with it.
-Data can go back as far as May 12, 2011.
+Data can go back as far as June 23, 2012.
 
 For the "Select songs here:" input, you can type in titles and artists.
-Example: 1-5, Panda, by Rihanna
 
-Click below to play around with an alternative model:
-
-https://htmlpreview.github.io/?https://github.com/Cacharani/Radio-Top-Spins/blob/master/webGL/index.html
-
- <img src = "https://raw.github.com/cacharani/Song-Tracker/master/demo.png" width="70%"></img>
-
+Example: 1-3, Sunflower, by Drake
