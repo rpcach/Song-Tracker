@@ -4,9 +4,9 @@
 
 Check out the app at:
 
-https://cacharani.shinyapps.io/song-tracker/
+https://rpcach.shinyapps.io/song-tracker/
 
-<img src = "https://raw.github.com/cacharani/song-tracker/master/plot.png" width="90%"></img>
+<img src = "https://raw.github.com/rpcach/song-tracker/master/plot.png" width="90%"></img>
 
 
 Pulls data from kworb.net/radio/ and creates interesting plots with it.
